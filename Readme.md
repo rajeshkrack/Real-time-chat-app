@@ -4,10 +4,7 @@ A multi-client chat application built using **C++**, **multithreading**, **TCP/I
 
 ---
 
-## **📂 Project Structure**
 
-
----
 
 ## **⚙️ Features**
 ✅ Multi-client chat support using **multithreading**  
@@ -19,7 +16,7 @@ A multi-client chat application built using **C++**, **multithreading**, **TCP/I
 
 ---
 
-## **🛠️ Prerequisites**
+## ** Prerequisites**
 Ensure you have the following installed:  
 - **G++ Compiler** (`g++ --version`)  
 - **Linux or WSL (Windows Subsystem for Linux)**  
